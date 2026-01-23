@@ -3,7 +3,6 @@ import './Growth.css';
 
 const learningItems = [
   'Advanced Cisco Certifications (CCNP, CCIE)',
-  'Cloud Networking (AWS, Azure)',
   'Cybersecurity Fundamentals',
   'IoT Network Security'
 ];
